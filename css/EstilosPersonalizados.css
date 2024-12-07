@@ -1,0 +1,21 @@
+.game-jams {
+    background-color: #0f1011; /* Ejemplo: color crema */
+    padding: 20px; /* Espaciado interno para una mejor apariencia */
+}
+
+.university-projects {
+    background-color: #0f1011; /* Ejemplo: color azul claro */
+    padding: 20px; /* Espaciado interno */
+}
+
+.cuadrado-game-jams
+{
+    background-color: #171818;
+    padding: 1%;
+    margin: 2%;
+}
+
+.texto-personalizado
+{
+    padding-left: 5%;
+}
